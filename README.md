@@ -5,10 +5,10 @@
 
 ### About me
 
-My name is Gean Lucas and I am a fullstack developer, with emphasis in frontend technologies. Always learning and programming something new 💻.
+My name is Gean Lucas and I am a frontend developer, with knowledge in backend technologies too. Always learning and developing something new 💻.
   
-- 💙  Currently learning the powers of JavaScript. 
-- 📚  Learning about backend with NodeJS, frontend with ReactJS, mobile with React Native, and software architecture.
+- 💙  Currently enhancing my TypeScript abilities. 
+- 📚  Focusing in frontend with ReactJS and NextJS, mobile with React Native, and software architecture.
 - 🔭  I wanna solve the problems the people still don't know they have.
 - 📫  Please do not hesitate to contact me.
 <!--
