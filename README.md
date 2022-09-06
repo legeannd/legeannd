@@ -5,7 +5,7 @@
 
 ### About me
 
-My name is Gean Lucas and I am a frontend developer, with knowledge in backend technologies too. Always learning and developing something new 💻.
+My name is Gean Lucas and I am a frontend software engineer, with knowledge in backend technologies too. Always learning and developing something new 💻.
   
 - 💙  Currently enhancing my TypeScript abilities. 
 - 📚  Focusing in frontend with ReactJS and NextJS, mobile with React Native, and software architecture.
