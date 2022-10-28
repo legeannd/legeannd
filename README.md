@@ -5,11 +5,10 @@
 
 ### About me
 
-My name is Gean Lucas and I am a frontend software engineer, with knowledge in backend technologies too. Always learning and developing something new 💻.
+I'm a frontend software engineer, developing with the NodeJS, ReactJS and React Native stack, focusing on frontend technologies. Passionate about technology and all its possibilities. I have already participated in Rocketseat's Space Squad, a project that aims to train mentors to help devs from all over the country during their journeys, so that their path can be easier and they can reach their goals. I currently work as a frontend software engineer, improving existing projects and developing innovative solutions using my knowledge in frontend and mobile tools 💻.
   
 - 💙  Currently enhancing my TypeScript abilities. 
 - 📚  Focusing in frontend with ReactJS and NextJS, mobile with React Native, and software architecture.
-- 🔭  I wanna solve the problems the people still don't know they have.
 - 📫  Please do not hesitate to contact me.
 <!--
 **legeannd/legeannd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
