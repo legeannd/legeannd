@@ -1,26 +1,25 @@
-### Hi, there! 👋 Welcome to my profile 😄 
+### Hello! 👋 Welcome to my GitHub profile 🚀 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/legeannd)](https://github.com/legeannd)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/geanlucaas/)](https://www.linkedin.com/in/geanlucaas/)
+[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/legeannd)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/geanlucaas/)
 
 ### About me
 
-I'm a frontend software engineer, developing with the NodeJS, ReactJS and React Native stack, focusing on frontend technologies. Passionate about technology and all its possibilities. I have already participated in Rocketseat's Space Squad, a project that aims to train mentors to help devs from all over the country during their journeys, so that their path can be easier and they can reach their goals. I currently work as a frontend software engineer, improving existing projects and developing innovative solutions using my knowledge in frontend and mobile tools 💻.
-  
-- 💙  Currently enhancing my TypeScript abilities. 
-- 📚  Focusing in frontend with ReactJS and NextJS, mobile with React Native, and software architecture.
-- 📫  Please do not hesitate to contact me.
+I'm a frontend software engineer, with 3+ years of professional experience and 7+ years studying programming languages and tools. Always developing software with the best practices in the market to create beautiful solutions and features, as you can see in my pinned repositories.   
+- 💙  Working with React and Next.js using TypeScript. 
+- 📚  Focusing in frontend with ReactJS and NextJS, mobile with React Native, and clean architecture.
+- 📫  If you liked my profile, take a look at my LinkedIn to get in touch.
+
+<br>
+
+<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center">
+
+  [![card](https://github-readme-stats.vercel.app/api?username=legeannd&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![legeannd](https://github-readme-stats.vercel.app/api/top-langs/?username=legeannd&hide=html&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <!--
 **legeannd/legeannd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
