@@ -8,6 +8,7 @@
 
 I'm a frontend software engineer, with 3+ years of professional experience and 7+ years studying programming languages and tools. Always developing software with the best practices in the market to create beautiful solutions and features, as you can see in my pinned repositories.   
 - 💙  Working with React and Next.js using TypeScript. 
+- 🛠️  Main technologies I've been working with: React, React Native, Next.js, Redux, Jest, React Testing Library.
 - 📚  Focusing in frontend with ReactJS and NextJS, mobile with React Native, and clean architecture.
 - 📫  If you liked my profile, take a look at my LinkedIn to get in touch.
 
