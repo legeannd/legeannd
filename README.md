@@ -14,13 +14,11 @@ I'm a frontend software engineer, with 3+ years of professional experience and 7
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center; justify-content: center">
-
-  [![card](https://github-readme-stats.vercel.app/api?username=legeannd&theme=transparent&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![legeannd](https://github-readme-stats.vercel.app/api/top-langs/?username=legeannd&hide=html&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
+## My github stats
+<div>
+  <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=legeannd&show_icons=true&theme=transparent" alt="legeannd" />
+  <img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legeannd&layout=compact&langs_count=5&theme=transparent"/>
+<div/>
 <!--
 **legeannd/legeannd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
