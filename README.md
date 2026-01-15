@@ -6,19 +6,7 @@
 
 ### About me
 
-I'm a frontend software engineer, with 3+ years of professional experience and 7+ years studying programming languages and tools. Always developing software with the best practices in the market to create beautiful solutions and features, as you can see in my pinned repositories.   
-- 💙  Working with React and Next.js using TypeScript. 
-- 🛠️  Main technologies I've been working with: React, React Native, Next.js, Redux, Jest, React Testing Library.
-- 📚  Focusing in frontend with ReactJS and NextJS, mobile with React Native, and clean architecture.
-- 📫  If you liked my profile, take a look at my LinkedIn to get in touch.
-
-<br>
-
-## My github stats
-<div>
-  <img  height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api?username=legeannd&show_icons=true&theme=transparent" alt="legeannd" />
-  <img height="165em" width: "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=legeannd&layout=compact&langs_count=5&theme=transparent"/>
-<div/>
+Frontend Software Engineer with 5 years of experience creating pixel-perfect and high-performance web solutions using React.js, Next.js, and TypeScript. Skilled in developing, testing, and optimizing frontend features in fast-paced finance and e-commerce environments, contributing to applications responsible for billions in revenue.
 <!--
 **legeannd/legeannd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
